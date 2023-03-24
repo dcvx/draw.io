@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2023-03-23T08:53:55.391Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="qLO9-be8wVBOhhQuhya6" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-24T04:15:14.798Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="lMoY0Ry89UoK5tKaVqv8" version="21.0.2" type="github">
   <diagram name="第 1 页" id="Kx43E6O90BhxfrlWNgs3">
     <mxGraphModel dx="919" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RBcMiiGmothh_dVmTL_C-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RBcMiiGmothh_dVmTL_C-89" target="RBcMiiGmothh_dVmTL_C-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RBcMiiGmothh_dVmTL_C-89" value="打标模型" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1310" width="150" height="230" as="geometry" />
+        </mxCell>
         <mxCell id="RBcMiiGmothh_dVmTL_C-47" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="650" width="740" height="100" as="geometry" />
         </mxCell>
@@ -178,6 +184,63 @@
         </mxCell>
         <mxCell id="RBcMiiGmothh_dVmTL_C-65" value="a1-&amp;gt;c1&lt;br style=&quot;border-color: var(--border-color); background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: rgb(255, 255, 255);&quot;&gt;a2-&amp;gt;c2&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: rgb(255, 255, 255);&quot;&gt;a3,b1-&amp;gt;c3&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: rgb(255, 255, 255);&quot;&gt;part(a4)-&amp;gt;c4&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: rgb(255, 255, 255);&quot;&gt;part(a4)-&amp;gt;d1&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: rgb(255, 255, 255);&quot;&gt;b2-&amp;gt;d2&lt;br&gt;discard(b3)&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="270" y="810" width="160" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="RBcMiiGmothh_dVmTL_C-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RBcMiiGmothh_dVmTL_C-72" target="RBcMiiGmothh_dVmTL_C-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RBcMiiGmothh_dVmTL_C-72" value="结构化数据" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="55" y="1070" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RBcMiiGmothh_dVmTL_C-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RBcMiiGmothh_dVmTL_C-74" target="RBcMiiGmothh_dVmTL_C-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RBcMiiGmothh_dVmTL_C-74" value="非结构化数据" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="55" y="1210" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RBcMiiGmothh_dVmTL_C-75" value="标准表C&lt;br&gt;字段c1,c2,c3,c4" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="465" y="1070" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RBcMiiGmothh_dVmTL_C-76" value="标准表D&lt;br&gt;字段d1,d2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="465" y="1210" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RBcMiiGmothh_dVmTL_C-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RBcMiiGmothh_dVmTL_C-79" target="RBcMiiGmothh_dVmTL_C-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RBcMiiGmothh_dVmTL_C-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RBcMiiGmothh_dVmTL_C-79" target="RBcMiiGmothh_dVmTL_C-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RBcMiiGmothh_dVmTL_C-79" value="a1-&amp;gt;c1&lt;br style=&quot;border-color: var(--border-color); background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: rgb(255, 255, 255);&quot;&gt;a2-&amp;gt;c2&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: rgb(255, 255, 255);&quot;&gt;a3,b1-&amp;gt;c3&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: rgb(255, 255, 255);&quot;&gt;part(a4)-&amp;gt;c4&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: rgb(255, 255, 255);&quot;&gt;part(a4)-&amp;gt;d1&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: rgb(255, 255, 255);&quot;&gt;b2-&amp;gt;d2&lt;br&gt;discard(b3)&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="265" y="1070" width="160" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="RBcMiiGmothh_dVmTL_C-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RBcMiiGmothh_dVmTL_C-80" target="RBcMiiGmothh_dVmTL_C-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RBcMiiGmothh_dVmTL_C-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RBcMiiGmothh_dVmTL_C-80" target="RBcMiiGmothh_dVmTL_C-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RBcMiiGmothh_dVmTL_C-80" value="结构化数据" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1400" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RBcMiiGmothh_dVmTL_C-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RBcMiiGmothh_dVmTL_C-81" target="RBcMiiGmothh_dVmTL_C-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RBcMiiGmothh_dVmTL_C-81" value="字段信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="254" y="1340" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RBcMiiGmothh_dVmTL_C-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RBcMiiGmothh_dVmTL_C-82" target="RBcMiiGmothh_dVmTL_C-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RBcMiiGmothh_dVmTL_C-82" value="内容信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="254" y="1460" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RBcMiiGmothh_dVmTL_C-85" value="匹配标签信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="445" y="1340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RBcMiiGmothh_dVmTL_C-86" value="文本信息提取" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RBcMiiGmothh_dVmTL_C-90" value="打标数据" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="605" y="1395" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
